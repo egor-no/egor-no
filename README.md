@@ -2,7 +2,7 @@
 
 👀 I’m interested in music, vinyl, foreign languages, history of programming and IT (and that's why I'm here) 
 
-🌱 I’m learning Java and everything else that's needed to find my first job as a Java developer
+🌱 I'm a Java Developer with 2+ years of experience in the IT industry
 
 🙌 If you are a recruiter and you want to offer me a job... do it! But first check out my repositories with training projects 
 
