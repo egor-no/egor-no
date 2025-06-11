@@ -1,10 +1,10 @@
 👋 Hi, I’m @egor-no
 
-👀 I’m interested in music, vinyl, foreign languages, history of programming and IT (and that's why I'm here) 
+🌱 I'm a Java Developer with 3+ years of experience in the IT industry
 
-🌱 I'm a Java Developer with 2+ years of experience in the IT industry
+👀 I’m also interested in history of programming and IT, music, arts and foreign languages
 
-🙌 If you are a recruiter and you want to offer me a job... do it! But first check out my repositories with training projects 
+🙌 If you are a recruiter and you want to offer me a job... do it! But first check out my repositories with pet projects 
 
 💞️ I don't know what else to write here but I liked this emoji-list that github offered me as a template
 
