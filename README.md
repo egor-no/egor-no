@@ -1,6 +1,6 @@
 👋 Hi, I’m @egor-no
 
-🌱 I'm a Java Developer with 3+ years of experience in the IT industry
+🌱 I'm a Java Developer with 4 years of experience in the IT industry
 
 👀 I’m also interested in history of programming and IT, music, arts and foreign languages
 
