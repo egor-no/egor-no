@@ -1,14 +1,27 @@
-👋 Hi, I’m @egor-no
+👋 Hi, I'm Egor
 
-🌱 I'm a Java Developer with 4 years of experience in the IT industry
+I'm a Java Developer with 5 years of experience in IT, focused mainly on backend and web development.
 
-👀 I’m also interested in history of programming and IT, music, arts and foreign languages
+Tech: Java · Spring Boot · Hibernate/JPA · SQL · REST · JavaScript · Maven · JUnit · Mockito
 
-🙌 If you are a recruiter and you want to offer me a job... do it! But first check out my repositories with pet projects 
+🚀 Pet Projects
 
-💞️ I don't know what else to write here but I liked this emoji-list that github offered me as a template
+[Galochki](https://github.com/egor-no/galochki) — a handwritten-style personal activity tracker with weekly goals and multiple tracking modes.
+Stack: Java 17 · Spring Boot · Spring MVC · Spring Data JPA · Thymeleaf · Hibernate · H2 · JavaScript · JUnit 5 · Mockito
 
-📫 Feel free to contact me 
+[Winylka Records](https://github.com/egor-no/winylka-records) — a full-stack vinyl record store with catalogue browsing, cart, checkout and admin functionality.
+Stack: Java 17 · Spring Boot · Spring Web · Vue 3 · PostgreSQL · REST API · JUnit 5 · Mockito
+
+[TOP40 Chart Manager](https://github.com/egor-no/chart-master) — a Java web application for creating, managing and analyzing personal music charts.
+Stack: Java 8 · Servlets · JSP · JSTL · Hibernate · MySQL · JavaScript · jQuery · Maven · Tomcat
+
+👀 Beyond Programming
+
+I'm interested in the history of programming and IT, music, arts and foreign languages.
+
+📫 Contact
+
+Feel free to contact me about projects, collaboration or job opportunities.
 
 <!---
 egor-no/egor-no is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
