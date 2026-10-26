@@ -15,6 +15,12 @@ I'm a Java Developer with 5 years of experience in IT, focused mainly on backend
 [TOP40 Chart Manager](https://github.com/egor-no/chart-master) — a Java web application for creating, managing and analyzing personal music charts.  
 **Stack:** Java 8 · Servlets · JSP · JSTL · Hibernate · MySQL · JavaScript · jQuery · Maven · Tomcat
 
+[Nyrok](https://github.com/egor-no/dive) — a local-first swimming workout journal with a training builder, lap time tracking, personal records and progress statistics.  
+**Stack:** JavaScript · HTML · CSS · Node.js · localStorage · Node.js Test Runner
+
+[SeriesProgressBot](https://github.com/egor-no/series-tg-bot) — a Java Telegram bot for tracking TV series, managing watched episodes and seasons, and updating viewing progress through interactive buttons.  
+**Stack:** Java 17 · TelegramBots API · JDBC · MySQL · Maven · Railway
+
 ## 👀 Beyond Programming
 
 I'm interested in the history of programming and IT, music, arts and foreign languages.
